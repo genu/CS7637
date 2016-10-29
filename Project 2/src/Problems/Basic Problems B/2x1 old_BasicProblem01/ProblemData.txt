@@ -1,0 +1,40 @@
+2x1
+5
+true
+true
+A
+	a
+		shape:circle
+		fill:no
+B
+	b
+		shape:circle
+		fill:yes
+C
+	c
+		shape:square
+		fill:no
+1
+	d
+		shape:circle
+		fill:yes
+2
+	e
+		shape:triangle
+		fill:no
+3
+	f
+		shape:square
+		fill:no
+4
+	g
+		shape:triangle
+		fill:yes
+5
+	h
+		shape:square
+		fill:yes
+6
+	i
+		shape:circle
+		fill:no
